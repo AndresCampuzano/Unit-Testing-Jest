@@ -1,0 +1,15 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "Unit testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Andres Campuzano",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
